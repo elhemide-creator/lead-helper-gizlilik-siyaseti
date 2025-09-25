@@ -1,30 +1,3 @@
-# lead-helper-gizlilik-siyaseti
-Bəli, vebsaytınız olmadıqda gizlilik siyasətini necə hazırlayıb yayımlayacağınızı addım-addım izah edirəm. Bu proses üçün **GitHub**-dan istifadə edəcəyik, çünki bu platforma sənədləri pulsuz saxlamağa və ictimaiyyətə açmağa imkan verir.
-
------
-
-### **Gizlilik Siyasətini GitHub-da Hazırlamaq**
-
-#### **Addım 1: GitHub Hesabı Yaratmaq**
-
-Əgər GitHub hesabınız yoxdursa, `https://github.com/` ünvanına gedib pulsuz bir hesab yaradın. Bu platforma proqramlaşdırma layihələrini saxlamaq üçün istifadə edilir, lakin hər cür sənəd üçün də uyğundur.
-
-#### **Addım 2: Yeni Bir Repository Yaratmaq**
-
-1.  Hesabınıza daxil olun.
-2.  Sağ yuxarı küncdəki "+" düyməsinə klikləyin və **"New repository"** (Yeni repository) seçin.
-3.  Repository üçün bir ad yazın. Ad uzantınızın adı ilə bağlı ola bilər (məsələn: `lead-helper-gizlilik-siyaseti`).
-4.  Repository-ni **"Public"** (İctimai) olaraq seçin. Bu vacibdir, çünki gizlilik siyasəti hər kəs tərəfindən görünməlidir.
-5.  **"Add a README file"** (README faylı əlavə et) bəndini işarələyin.
-6.  **"Create repository"** (Repository yarat) düyməsinə klikləyin.
-
-#### **Addım 3: Gizlilik Siyasəti Faylını Yaratmaq**
-
-1.  Yaratdığınız repository-yə daxil olun.
-2.  **"Add file"** (Fayl əlavə et) düyməsinə klikləyin və **"Create new file"** (Yeni fayl yarat) seçin.
-3.  Fayl adı olaraq `PRIVACY_POLICY.md` yazın. `.md` uzantısı Markdown faylı deməkdir və formatlamanı asanlaşdırır.
-4.  Aşağıdakı məzmunu faylın içinə köçürün və **uzantınızın adını** uyğun olaraq dəyişin:
-
 <!-- end list -->
 
 ```
